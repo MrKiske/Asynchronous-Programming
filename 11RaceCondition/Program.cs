@@ -13,13 +13,17 @@
         {
             // Run the operation 10 times
             // To get more clear results exposing the problem
-
-            for (var i = 0; i < 10; i++)
+            var t0 = new Thread(() =>
             {
-                Console.WriteLine(new string('*', 60));
-                StartCounterConcurrently();
-                counter = 0;
-            }
+                for (var i = 0; i < 10; i++)
+                {
+                    Console.WriteLine(new string('*', 60));
+                    StartCounterConcurrently();
+                    counter = 0;
+                }
+            });
+
+            t0.Start();
         }
 
         public static void StartCounterConcurrently()
