@@ -7,14 +7,12 @@
 
     internal class Program
     {
-
-
         private static void Main(string[] args)
         {
             var _path = Directory.GetCurrentDirectory();
             var _numFiles = 0;
             var _content = string.Empty;
-
+            var _flag = false;
             
             DirectoryInfo info = new DirectoryInfo(Path.Combine(_path, "files"));
             FileInfo[] files = info.GetFiles().OrderBy(p => p.CreationTime).ToArray();
@@ -24,27 +22,30 @@
                 Thread fileThread = new Thread( ()=>
                     {
                         _messageRead = readFiles(file.FullName);
-                        _content = _messageRead;
+                        _content = _content + _messageRead;
                         _numFiles++;
                     }
                 );
 
                 fileThread.Start();
-                
-                var flag = true;
-                while (flag)
+
+                if (_numFiles == 10)
                 {
-                    if (_numFiles == 10)
-                    {
-                        fileThread.Join();
-                        flag = false;
-                        showFiles(_content);
-                    }
+                    fileThread.Join();
+                    showFiles(_content);
+                    _flag = true;
+                }
+                else
+                {
+                    Thread.Sleep(1000);
                 }
 
-               // return;
+                if (_flag)
+                    return;
             }
 
+            if (_numFiles < 10)
+                showFiles(_content);
         }
 
         private static string readFiles(string path)
@@ -54,8 +55,8 @@
         }
 
         private static void showFiles(string message)
-        { 
-        
+        {
+            Console.WriteLine(message);
         }
 
 

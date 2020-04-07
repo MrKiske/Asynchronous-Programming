@@ -1,0 +1,13 @@
+C:\Users\mavendano\Documents\Endava\Source\AsynchronousProgramming\12DemoFiles\bin\Debug\netcoreapp3.1\12DemoFiles.exe
+C:\Users\mavendano\Documents\Endava\Source\AsynchronousProgramming\12DemoFiles\bin\Debug\netcoreapp3.1\12DemoFiles.deps.json
+C:\Users\mavendano\Documents\Endava\Source\AsynchronousProgramming\12DemoFiles\bin\Debug\netcoreapp3.1\12DemoFiles.runtimeconfig.json
+C:\Users\mavendano\Documents\Endava\Source\AsynchronousProgramming\12DemoFiles\bin\Debug\netcoreapp3.1\12DemoFiles.runtimeconfig.dev.json
+C:\Users\mavendano\Documents\Endava\Source\AsynchronousProgramming\12DemoFiles\bin\Debug\netcoreapp3.1\12DemoFiles.dll
+C:\Users\mavendano\Documents\Endava\Source\AsynchronousProgramming\12DemoFiles\bin\Debug\netcoreapp3.1\12DemoFiles.pdb
+C:\Users\mavendano\Documents\Endava\Source\AsynchronousProgramming\12DemoFiles\obj\Debug\netcoreapp3.1\12DemoFiles.csprojAssemblyReference.cache
+C:\Users\mavendano\Documents\Endava\Source\AsynchronousProgramming\12DemoFiles\obj\Debug\netcoreapp3.1\12DemoFiles.csproj.CoreCompileInputs.cache
+C:\Users\mavendano\Documents\Endava\Source\AsynchronousProgramming\12DemoFiles\obj\Debug\netcoreapp3.1\12DemoFiles.AssemblyInfoInputs.cache
+C:\Users\mavendano\Documents\Endava\Source\AsynchronousProgramming\12DemoFiles\obj\Debug\netcoreapp3.1\12DemoFiles.AssemblyInfo.cs
+C:\Users\mavendano\Documents\Endava\Source\AsynchronousProgramming\12DemoFiles\obj\Debug\netcoreapp3.1\12DemoFiles.dll
+C:\Users\mavendano\Documents\Endava\Source\AsynchronousProgramming\12DemoFiles\obj\Debug\netcoreapp3.1\12DemoFiles.pdb
+C:\Users\mavendano\Documents\Endava\Source\AsynchronousProgramming\12DemoFiles\obj\Debug\netcoreapp3.1\12DemoFiles.genruntimeconfig.cache

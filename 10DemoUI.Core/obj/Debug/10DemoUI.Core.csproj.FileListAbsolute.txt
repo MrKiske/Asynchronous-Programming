@@ -1,0 +1,6 @@
+C:\Users\mavendano\Documents\Endava\Source\AsynchronousProgramming\10DemoUI.Core\bin\Debug\10DemoUI.Core.dll
+C:\Users\mavendano\Documents\Endava\Source\AsynchronousProgramming\10DemoUI.Core\bin\Debug\10DemoUI.Core.pdb
+C:\Users\mavendano\Documents\Endava\Source\AsynchronousProgramming\10DemoUI.Core\obj\Debug\10DemoUI.Core.csprojAssemblyReference.cache
+C:\Users\mavendano\Documents\Endava\Source\AsynchronousProgramming\10DemoUI.Core\obj\Debug\10DemoUI.Core.csproj.CoreCompileInputs.cache
+C:\Users\mavendano\Documents\Endava\Source\AsynchronousProgramming\10DemoUI.Core\obj\Debug\10DemoUI.Core.dll
+C:\Users\mavendano\Documents\Endava\Source\AsynchronousProgramming\10DemoUI.Core\obj\Debug\10DemoUI.Core.pdb

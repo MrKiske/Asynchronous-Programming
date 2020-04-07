@@ -1,0 +1,4 @@
+https://es.mongabay.com/2019/08/incendios-forestales-bosques-brasil-bolivia-paraguay/
+https://www.cs.waikato.ac.nz/~eibe/pubs/FrankAndBouckaertPKDD06new.pdf
+https://openweathermap.org/history#cityid
+https://home.openweathermap.org/api_keys

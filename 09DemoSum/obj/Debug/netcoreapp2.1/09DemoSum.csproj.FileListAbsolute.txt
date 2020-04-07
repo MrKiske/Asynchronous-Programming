@@ -1,0 +1,12 @@
+C:\Users\mavendano\Documents\Endava\Source\AsynchronousProgramming\09DemoSum\bin\Debug\netcoreapp2.1\09DemoSum.deps.json
+C:\Users\mavendano\Documents\Endava\Source\AsynchronousProgramming\09DemoSum\bin\Debug\netcoreapp2.1\09DemoSum.runtimeconfig.json
+C:\Users\mavendano\Documents\Endava\Source\AsynchronousProgramming\09DemoSum\bin\Debug\netcoreapp2.1\09DemoSum.runtimeconfig.dev.json
+C:\Users\mavendano\Documents\Endava\Source\AsynchronousProgramming\09DemoSum\bin\Debug\netcoreapp2.1\09DemoSum.dll
+C:\Users\mavendano\Documents\Endava\Source\AsynchronousProgramming\09DemoSum\bin\Debug\netcoreapp2.1\09DemoSum.pdb
+C:\Users\mavendano\Documents\Endava\Source\AsynchronousProgramming\09DemoSum\obj\Debug\netcoreapp2.1\09DemoSum.csprojAssemblyReference.cache
+C:\Users\mavendano\Documents\Endava\Source\AsynchronousProgramming\09DemoSum\obj\Debug\netcoreapp2.1\09DemoSum.csproj.CoreCompileInputs.cache
+C:\Users\mavendano\Documents\Endava\Source\AsynchronousProgramming\09DemoSum\obj\Debug\netcoreapp2.1\09DemoSum.AssemblyInfoInputs.cache
+C:\Users\mavendano\Documents\Endava\Source\AsynchronousProgramming\09DemoSum\obj\Debug\netcoreapp2.1\09DemoSum.AssemblyInfo.cs
+C:\Users\mavendano\Documents\Endava\Source\AsynchronousProgramming\09DemoSum\obj\Debug\netcoreapp2.1\09DemoSum.dll
+C:\Users\mavendano\Documents\Endava\Source\AsynchronousProgramming\09DemoSum\obj\Debug\netcoreapp2.1\09DemoSum.pdb
+C:\Users\mavendano\Documents\Endava\Source\AsynchronousProgramming\09DemoSum\obj\Debug\netcoreapp2.1\09DemoSum.genruntimeconfig.cache
